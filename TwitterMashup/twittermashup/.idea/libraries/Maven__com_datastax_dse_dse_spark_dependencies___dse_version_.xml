@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.datastax.dse:dse-spark-dependencies:${dse.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datastax/dse/dse-spark-dependencies/${dse.version}/dse-spark-dependencies-${dse.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datastax/dse/dse-spark-dependencies/${dse.version}/dse-spark-dependencies-${dse.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datastax/dse/dse-spark-dependencies/${dse.version}/dse-spark-dependencies-${dse.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
